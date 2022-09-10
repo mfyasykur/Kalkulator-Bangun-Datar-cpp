@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1609859691 source:d:\_my document\_kuliah\_mata kuliah\_informatika\algoritma pemrograman\tugas\tugas besar\source code\revisi\kalkulator bangun datar\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<time.h>
+	<string>
+	<fstream>
+	<windows.h>
+
+1611908834 source:d:\_my document\_kuliah\_mata kuliah\_informatika\algoritma pemrograman\tugas\tugas besar\source code\_revisi\kalkulator bangun datar\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<time.h>
+	<string>
+	<fstream>
+	<windows.h>
+	<math.h>
+
+1612074894 source:d:\_my document\_kuliah\_mata kuliah\_informatika\algoritma pemrograman\tugas\tugas besar\source code\_final\kalkulator bangun datar\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<time.h>
+	<string>
+	<fstream>
+	<windows.h>
+	<math.h>
+
+1612607970 source:d:\_my documents\_kuliah\_mata kuliah\semester 1\algoritma pemrograman\tugas\tugas besar\source code\_final\kalkulator bangun datar\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<time.h>
+	<string>
+	<fstream>
+	<windows.h>
+	<math.h>
+
